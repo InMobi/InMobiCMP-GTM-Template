@@ -1,0 +1,5 @@
+homepage: "https://choice.inmobi.com"
+documentation: "https://support.inmobi.com/choice/choice-overview"
+versions:
+  - sha: db9915e27b1c1de572844846976ffd7ba9b61276
+    changeNotes: Add template file and LICENSE
