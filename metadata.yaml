@@ -3,3 +3,5 @@ documentation: "https://support.inmobi.com/choice/choice-overview"
 versions:
   - sha: db9915e27b1c1de572844846976ffd7ba9b61276
     changeNotes: Add template file and LICENSE
+  - sha: 506b831cd4fa9ac0d220d1a17e3d7aaf6ad86261
+    changeNotes: Add all necessary template files for Initial release
