@@ -5,3 +5,5 @@ versions:
     changeNotes: Add template file and LICENSE
   - sha: 506b831cd4fa9ac0d220d1a17e3d7aaf6ad86261
     changeNotes: Add all necessary template files for Initial release
+  - sha: 24ab11fe1d9e690c36be36b5310a7a3bc15b60d1
+    changeNotes: Use encodeUriComponent to encode query params
