@@ -1,4 +1,4 @@
-﻿___TERMS_OF_SERVICE___
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -279,7 +279,7 @@ function constructURL(baseURL, params) {
         if (queryString.length > 0) {
           queryString += '&';
         }
-        queryString += key + '=' + params[key];
+        queryString += key + '=' + encodeUriComponent(params[key]);
       }
     }
   }
@@ -762,6 +762,4 @@ scenarios: []
 
 ___NOTES___
 
-Created on 12/08/2024, 15:31:23
-
-
+Created on 13/08/2024, 15:39:31
