@@ -1,11 +1,11 @@
-homepage: "https://choice.inmobi.com"
-documentation: "https://support.inmobi.com/choice/choice-overview"
+homepage: 'https://choice.inmobi.com'
+documentation: 'https://support.inmobi.com/choice/choice-overview'
 versions:
-  - sha: db9915e27b1c1de572844846976ffd7ba9b61276
-    changeNotes: Add template file and LICENSE
-  - sha: 506b831cd4fa9ac0d220d1a17e3d7aaf6ad86261
-    changeNotes: Add all necessary template files for Initial release
-  - sha: 24ab11fe1d9e690c36be36b5310a7a3bc15b60d1
-    changeNotes: Use encodeUriComponent to encode query params
   - sha: a0648ca80780b334346d0dce4526964e0cbf0fa3
     changeNotes: Added wait_for_update
+  - sha: 24ab11fe1d9e690c36be36b5310a7a3bc15b60d1
+    changeNotes: Use encodeUriComponent to encode query params
+  - sha: 506b831cd4fa9ac0d220d1a17e3d7aaf6ad86261
+    changeNotes: Add all necessary template files for Initial release
+  - sha: db9915e27b1c1de572844846976ffd7ba9b61276
+    changeNotes: Add template file and LICENSE
